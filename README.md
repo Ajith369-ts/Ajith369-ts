@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ajith369-ts
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on web application projects
-- 📫 How to reach me ajithkumar11121@gmail.com
+- 💞️ I’m looking to collaborate on web application projects.
